@@ -1,0 +1,1008 @@
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        
+    }
+
+
+
+/*==section 2 responsive start==*/
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .image_content img {
+            text-align: center;
+        }
+        .image_content h3 {
+            text-align: center;
+        }
+        .image_content h6 {
+            text-align: center;
+        }
+        .image_content p {
+            text-align: center;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .image_content img {
+            text-align: center;
+        }
+        .image_content h3 {
+            text-align: center;
+        }
+        .image_content h6 {
+            text-align: center;
+        }
+        .image_content p {
+            text-align: center;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .image_content img {
+            text-align: center;
+        }
+        .image_content h3 {
+            text-align: center;
+        }
+        .image_content h6 {
+            text-align: center;
+        }
+        .image_content p {
+            text-align: center;
+        }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .image_content img {
+            text-align: center;
+        }
+        .image_content h3 {
+            text-align: center;
+        }
+        .image_content h6 {
+            text-align: center;
+        }
+        .image_content p {
+            text-align: center;
+        }
+    }
+
+    /*==section 2 responsive end==*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+    /*==section 3 responsive start==*/
+    
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .successes_image img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_image h4 {
+            text-align: center;
+        }
+        .successes_image h6 {
+            text-align: center;
+        }
+        .successes_image p {
+            text-align: center;
+        }
+        .successes_img img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_img h4 {
+            text-align: center;
+        }
+        .successes_img h6 {
+            text-align: center;
+        }
+        .successes_img p {
+            text-align: center;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .successes_image img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_image h4 {
+            text-align: center;
+        }
+        .successes_image h6 {
+            text-align: center;
+        }
+        .successes_image p {
+            text-align: center;
+        }
+        .successes_img img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_img h4 {
+            text-align: center;
+        }
+        .successes_img h6 {
+            text-align: center;
+        }
+        .successes_img p {
+            text-align: center;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .successes_image img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_image h4 {
+            text-align: center;
+        }
+        .successes_image h6 {
+            text-align: center;
+        }
+        .successes_image p {
+            text-align: center;
+        }
+        .successes_img img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_img h4 {
+            text-align: center;
+        }
+        .successes_img h6 {
+            text-align: center;
+        }
+        .successes_img p {
+            text-align: center;
+        }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .successes_image img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_image h4 {
+            text-align: center;
+        }
+        .successes_image h6 {
+            text-align: center;
+        }
+        .successes_image p {
+            text-align: center;
+        }
+        .successes_img img {
+            width: 100%;
+            height: auto;
+        }
+        .successes_img h4 {
+            text-align: center;
+        }
+        .successes_img h6 {
+            text-align: center;
+        }
+        .successes_img p {
+            text-align: center;
+        }
+    }
+    /*==section 3 responsive end==*/
+
+    /*==section 5 responsive start==*/
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .camping_content img {
+            padding: 0px 40px 20px 130px;
+        }
+        .camping_content h3{
+            text-align: center;
+        }
+        .large_vedio h2 {
+            color: #FFFFFF;
+            padding: 70px 0px 96px 10px;
+            font-size: 20px;
+        }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .camping_content img {
+            padding: 0px 40px 20px 130px;
+        }
+        .camping_content h3{
+            text-align: center;
+        }
+        .large_vedio h2 {
+            color: #FFFFFF;
+            padding: 70px 0px 96px 10px;
+            font-size: 20px;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .camping_content img {
+            padding: 0px 40px 20px 130px;
+        }
+        .camping_content h3{
+            text-align: center;
+        }
+        .large_vedio h2 {
+            color: #FFFFFF;
+            padding: 70px 0px 96px 10px;
+            font-size: 20px;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .camping_content img {
+            padding: 0px 40px 20px 130px;
+        }
+        .camping_content h3{
+            text-align: center;
+        }
+        .large_vedio h2 {
+            color: #FFFFFF;
+            padding: 70px 0px 96px 10px;
+            font-size: 20px;
+        }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .camping_content img {
+            padding: 0px 40px 20px 130px;
+        }
+        .camping_content h3{
+            text-align: center;
+        }
+        .large_vedio h2 {
+            color: #FFFFFF;
+            padding: 70px 0px 96px 10px;
+            font-size: 20px;
+        }
+    }
+    /*==section 5 responsive end==*/
+
+
+    /*section no: 6 responsive start*/
+
+    /*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .flex_box{
+            width: 100%;
+            height: 100%;
+        }
+        .upcomimg_image img{
+            width: 100%;
+            height: 100%;
+        }
+        .flex_box h3 {
+            font-size:16px;
+        }
+        .flex_one p {
+            font-size: 8px;
+            margin:0px 0px 15px 20px ;
+        }
+        .middle_text p {
+            font-size: 9px;
+        }
+        .flex_three p {
+            font-size: 8px;
+            margin:20px 20px 0px 0px ;
+        }
+        .flex_four p {
+            font-size: 8px;
+            margin:20px 0px 0px 20px ;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .flex_box{
+            width: 100%;
+            height: 100%;
+        }
+        .upcomimg_image img{
+            width: 100%;
+            height: 100%;
+        }
+        .flex_box h3 {
+            font-size:16px;
+        }
+        .flex_one p {
+            font-size: 8px;
+            margin:0px 0px 15px 20px ;
+        }
+        .middle_text p {
+            font-size: 9px;
+        }
+        .flex_three p {
+            font-size: 8px;
+            margin:20px 20px 0px 0px ;
+        }
+        .flex_four p {
+            font-size: 8px;
+            margin:20px 0px 0px 20px ;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .flex_box{
+            width: 100%;
+            height: 100%;
+        }
+        .upcomimg_image img{
+            width: 100%;
+            height: 100%;
+        }
+        .flex_box h3 {
+            font-size:16px;
+        }
+        .flex_one p {
+            font-size: 8px;
+            margin:0px 0px 15px 20px ;
+        }
+        .middle_text p {
+            font-size: 9px;
+        }
+        .flex_three p {
+            font-size: 8px;
+            margin:20px 20px 0px 0px ;
+        }
+        .flex_four p {
+            font-size: 8px;
+            margin:20px 0px 0px 20px ;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .flex_box{
+            width: 100%;
+            height: 100%;
+        }
+        .upcomimg_image img{
+            width: 100%;
+            height: 100%;
+        }
+        .flex_box h3 {
+            font-size:16px;
+        }
+        .flex_one p {
+            font-size: 8px;
+            margin:0px 0px 15px 20px ;
+        }
+        .middle_text p {
+            font-size: 9px;
+        }
+        .flex_three p {
+            font-size: 8px;
+            margin:20px 20px 0px 0px ;
+        }
+        .flex_four p {
+            font-size: 8px;
+            margin:20px 0px 0px 20px ;
+        }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .flex_box{
+            width: 100%;
+            height: 100%;
+        }
+        .upcomimg_image img{
+            width: 100%;
+            height: 100%;
+        }
+        .flex_box h3 {
+            font-size:16px;
+        }
+        .flex_one p {
+            font-size: 8px;
+            margin:0px 0px 15px 20px ;
+        }
+        .middle_text p {
+            font-size: 9px;
+        }
+        .flex_three p {
+            font-size: 8px;
+            margin:20px 20px 0px 0px ;
+        }
+        .flex_four p {
+            font-size: 8px;
+            margin:20px 0px 0px 20px ;
+        }
+    }
+/*section no: 6 responsive end*/
+
+/*== section no:  7  responsive start==*/
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .donetors_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .donetors_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .donetors_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .donetors_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .donetors_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+  /*== section no: 7  responsive end==*/
+
+ /*== section no: 8  responsive start==*/
+ /*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+        .volunteers_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .volunteers_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .volunteers_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .volunteers_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .volunteers_top img {
+            padding: 0px 40px 20px 130px;
+        }
+    }
+
+  /*== section no: 8  responsive end==*/
+
+
+  /*== section no: 9  responsive start==*/
+  /*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+           .form_content {
+            display: flex;
+        }
+        .form_content form {
+            padding: 50px 0px 40px 0px;
+            color: silver;
+        }
+        .button_content input{
+            margin: 50px 0px 40px 10px;
+        }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .form_content {
+            display: flex;
+        }
+        .form_content form {
+            padding: 50px 0px 40px 0px;
+            color: silver;
+        }
+        .button_content input{
+            margin: 50px 0px 40px 10px;
+        }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .form_content {
+            display: flex;
+        }
+        .form_content form {
+            padding: 50px 0px 40px 0px;
+            color: silver;
+        }
+        .button_content input{
+            margin: 50px 0px 40px 10px;
+        }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .form_content {
+            display: flex;
+        }
+        .form_content form {
+            padding: 50px 0px 40px 0px;
+            color: silver;
+        }
+        .button_content input{
+            margin: 50px 0px 40px 10px;
+        }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .form_content {
+            display: flex;
+        }
+        .form_content form {
+            padding: 50px 0px 40px 0px;
+            color: silver;
+        }
+        .button_content input{
+            margin: 50px 0px 40px 10px;
+        }
+    }
+
+  /*== section no: 9  responsive end==*/
+
+    /*== section no: 10  responsive start==*/
+
+  /*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========Name:Shoaeb Hossain==========*/
+
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+        
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+    }
+
+
+
+    /*==========  Non-Mobile First Method  ==========*/
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (max-width : 1200px) {
+     .footer_content {
+        text-align: center;
+     }
+     .footar_icon {
+        padding-left: 110px;
+     }
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (max-width : 992px) {
+        .footer_content {
+            text-align: center;
+         }
+         .footar_icon {
+            padding-left: 110px;
+         }
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (max-width : 768px) {
+        .footer_content {
+            text-align: center;
+         }
+         .footar_icon {
+            padding-left: 110px;
+         }
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (max-width : 480px) {
+        .footer_content {
+            text-align: center;
+         }
+         .footar_icon {
+            padding-left: 110px;
+         }
+    }
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (max-width : 320px) {
+        .footer_content {
+            text-align: center;
+         }
+         .footar_icon {
+            padding-left: 110px;
+         } 
+    }
+
+    /*== section no: 10  responsive end==*/

@@ -1,0 +1,400 @@
+
+
+/*second section css start*/
+
+.works_content {
+    text-align: center;
+}
+.works_content p {
+   font-size: 15px;
+   padding: 15px 0px 20px 0px;
+}
+/*image css start*/
+.image_content {
+    background-color: #FFFFFF;
+}
+.image_content h3 {
+    padding-left: 10px;
+}
+.image_content img {
+    width: 100%;
+    height: auto;
+}
+.image_content h6 {
+    font-size: 14px;
+    padding-left: 10px;
+}
+.image_content p {
+    font-size: 14px;
+    color: green;
+    padding: 10px 10px 20px 10px;
+}
+/*second section end start*/
+
+/*section no: 3 css start*/
+.successes_stories {
+    background-color: #FFFFFF;
+    margin-top: 50px;
+}
+.Successes_content {
+    text-align: center;
+}
+.Successes_content p {
+   font-size: 15px;
+   padding: 15px 0px 30px 0px;
+}
+/*image start here*/
+.successes_image{
+    background-color:#9AD3B9 ;
+    border-radius: 10px 10px 20px 20px;
+  margin-bottom: 20px;
+}
+.successes_image h4{
+    padding-left: 10px;
+    color: #FFFFFF;
+}
+.sec_three {
+    background-color:whitesmoke;
+    border-radius: 0px 0px 12px 12px;
+}
+.sec_three p{
+    padding: 10px 0 0 10px;
+    font-size: 14px;
+}
+.sec_three h6{
+    padding: 10px 0px 15px 270px;
+    font-size: 14px;
+}
+/*row 2 css start*/
+.successes_img{
+    background-color:#9AD3B9 ;
+    border-radius: 10px 10px 20px 20px;
+    margin-bottom: 70px;
+}
+.successes_img h4{
+    padding-left: 10px;
+    color: #FFFFFF;
+}
+.sec_three {
+    background-color:whitesmoke;
+    border-radius: 0px 0px 12px 12px;
+}
+.sec_three p{
+    padding: 10px 0 0 10px;
+    font-size: 14px;
+}
+.sec_three h6{
+    padding: 10px 0px 15px 270px;
+    font-size: 14px;
+}
+/*hover css start*/
+.sec_three:hover{
+    background-color: #52997A;
+    color:white;
+}
+/*section no: 3 css end*/
+
+/*section no: 4 css start*/
+.help_us h3{
+    text-align: center;
+    padding: 20px 0px 40px 0px;
+}
+.help_image img{
+    padding-left: 40%;
+}
+.help_text {
+    text-align: center;
+}
+.help_text p {
+  font-size: 12px;
+  padding-bottom: 60px;
+}
+.supply_img img {
+    margin-top: 18px;
+}
+/*section no: 4 css end*/
+
+/*section no: 5 css start*/
+.camping_content h3{
+    text-align: center;
+}
+.camping_content img {
+    padding-left: 44%;
+}
+/*vedio image css start*/
+.large_vedio {
+    background-image: url("../images/camping\ vedio1.png");
+    background-position: top;
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    margin-top: 40px;
+    }
+.large_vedio h2{
+    color: #FFFFFF;
+    padding: 220px 0px 280px 20px;
+    font-size: 48px;
+ }
+/* 2nd row start*/
+.left_vedio {
+    background-image: url("../images/camping-vedios2.png");
+    background-position: top;
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    margin-top: 40px;
+}
+.left_vedio h3{
+   color: #FFFFFF;
+   padding: 56px 0px 96px 28px;
+   font-size: 25px;
+}
+.middle_vedio {
+    background-image: url("../images/camping-vedios3.png");
+    background-position: top;
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    margin-top: 40px;
+}
+.middle_vedio h3 {
+   color: #FFFFFF;
+   padding: 56px 0px 96px 28px;
+   font-size: 25px;
+}
+.right_vedio {
+    background-image: url("../images/camping-vedios4.png");
+    background-position: top;
+    background-repeat: repeat;
+    background-size: 100% 100%;
+    margin-top: 40px;
+}
+.right_vedio h3 {
+    color: #FFFFFF;
+    padding: 56px 0px 96px 28px;
+    font-size: 25px;
+}
+  
+/*section no: 5 css end*/
+
+/*section no: 6 css start*/
+.upcoming_events {
+    margin-top: 50px;
+}
+.upcoming_content {
+    text-align: center;
+}
+.upcoming_content p {
+   font-size: 15px;
+   padding: 15px 0px 30px 0px;
+}
+/*image css start*/
+.main_flex {
+    display:flex;
+    border-radius: 25px 25px 25px 25px;
+    background: #FFFFFF;
+    width: 100%;
+    height: 100%;
+    margin-bottom: 30px;
+}
+.upcomimg_image img{
+    width: 100%;
+    height: 100%;
+}
+.flex_box h3 {
+    padding-left: 20px;
+}
+.flex_one {
+    display: flex;
+}
+.flex_one p {
+    font-size: 12px;
+    padding-left: 20px;
+    color: #52997A;
+    font-weight: 500;
+}
+.flex_two p {
+    font-size: 12px;
+    margin-left: 80px;
+    color: #52997A;
+    font-weight: 500;
+}
+.middle_text p {
+    font-size: 15px;
+    text-align: justify;
+    padding-left: 20px;
+    margin-bottom: 40px;
+}
+/*flex box no: 2 start*/
+.flex_box2 {
+    display: flex;
+    border-top: 1px solid grey;
+    margin: 0px 10px 50px 30px;
+}
+.flex_three p {
+    font-size: 12px;
+    padding-left: 20px;
+    color: #52997A;
+    font-weight: 500;
+    margin-top: 30px;
+}
+.flex_four p {
+    font-size: 12px;
+    margin:30px 0px 0px 100px;
+    color: #d41555;
+    font-weight: 500;
+}
+/*section no: 6 css end*/
+
+/*section no: 7 css start*/
+.our_donetors {
+    background-color: #FFFFFF;
+}
+.donetors_top h3{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.donetors_top img {
+    padding-left: 44%;
+    padding-bottom: 60px;
+}
+/*image css start*/
+.donetors_image img {
+    padding-left: 40%;
+}
+.donetors_text h3{
+    text-align: center;
+}
+.donetors_text h5 {
+   text-align: center;
+   color: #52997A;
+}
+.donetors_text p {
+    font-size: 13px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+/*section no: 7 css end*/
+/*section no: 8 css start*/
+.volunteers_top h3 {
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    margin-top: 50px;
+}
+.volunteers_top img {
+    padding-left: 44%;
+    margin-bottom: 60px;
+}
+/*==image css start here==*/
+.volunteers_flex {
+    display:flex;
+    background: #FFFFFF;
+    border-radius: 25px 25px 25px 25px;
+    margin:0px 0px 30px 10px;
+}
+.volunteers_people img {
+    margin: 20px 0px 0px 30px;
+}
+.people_name h3 {
+    padding: 0px 0px 0px 20px;
+    font-size: 20px;
+}
+.people_work h5 {
+    color: #52997A;
+    padding:0px 0px 30px 30px;
+    text-transform: uppercase;
+    font-size: 10px;
+    text-align: justify;
+}
+/*==icon flex css start*/
+.icon_flex {
+    display: flex;
+}
+.facebook_site img {
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+.twitter_site img {
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+.instagram_site img {
+    padding-right: 10px;
+    margin-bottom: 20px;
+}
+.linkdin_site img {
+    padding-right: 30px;
+    margin-bottom: 20px;
+}
+/*section no: 8 css end*/
+
+/*section no: 9 css start*/
+.search_content {
+    background-image: url("../images/contact-bg.png");
+    background-position: top;
+    background-repeat: repeat;
+    background-size: 100% 100%;
+}
+.form_content {
+    display: flex;
+}
+.form_content form {
+    padding: 100px 0px 90px 370px;
+    color: silver;
+}
+.button_content input{
+    margin: 100px 0px 90px 40px;
+    background-color: #52997A;
+    color: #FFFFFF;
+}
+/*section no: 9 css end*/
+
+/*section no: 10 css start*/
+.footer_content {
+    background-color: #FFFFFF;
+    padding: 80px 0px;
+}
+.footar_icon {
+    display: flex;
+}
+.facebook_icon {
+    padding: 40px 30px 30px 0px;
+    opacity: 0.7;
+}
+.twitter_icon {
+    padding: 40px 30px 30px 0px;
+    opacity: 0.7;
+}
+.instagram_icon {
+    padding: 40px 30px 30px 0px;
+    opacity: 0.7;
+}
+.youtube_icon {
+    padding: 40px 30px 30px 0px;
+    opacity: 0.7;
+}
+.footar_left p {
+    opacity: 0.7;
+    font-size: 12px;
+}
+.middle_list {
+    padding-bottom: 20px;
+    opacity: 0.7;
+    font-size: 15px;
+}
+.right_footar {
+    padding-bottom: 50px;
+  
+}
+.right_footar h5 {
+    font-size: 14px;
+    opacity: 0.7;
+    margin-top: 10px;
+}
+.right_footar a {
+    font-size: 12px;
+}
+/*section no: 10 css end*/
+
+/*==this project css end here==*/
+/*====Md:Shoaeb Hossain====*/
